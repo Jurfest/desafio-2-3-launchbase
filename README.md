@@ -6,7 +6,7 @@
 ### Challenge 02-03 - LaunchBase 2020 - Rocketseat
 
 
-Demo de website pessoal e portfólio
+Personal website and portfolio demo
 
 ### :computer: Technologies
 
