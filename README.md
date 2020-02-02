@@ -1,7 +1,5 @@
 # Desafio 2-3 Bootcamp LaunchBase - Rocketseat
-Demo de website pessoal e portfólio.
+Demo de website pessoal e portfólio
 
 # Tecnologias
-JavaScript
-CSS
-HTML
+JavaScript, CSS e HTML
